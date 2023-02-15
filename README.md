@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DoctorManhattan123
-- 👀 I’m interested in informatics, volleyball and solving differential equations
-- 🌱 I’m currently learning Rust, React and Python
-- 💞️ I’m looking to collaborate on an own language and type design
+- 👀 I’m interested in informatics, volleyball and skiing
+- 🌱 I’m currently learning Rust, Rust and Rust and I still don't get it.
+- 💞️ I’m looking to collaborate on an own language and type design.
 - 📫 How to reach me. 
 
 <!---
